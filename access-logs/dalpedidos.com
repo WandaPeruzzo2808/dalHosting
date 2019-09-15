@@ -1,0 +1,8 @@
+184.75.221.179 - - [01/Aug/2019:09:35:24 -0300] "GET / HTTP/1.1" 301 235 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36"
+8.37.233.173 - - [01/Aug/2019:10:10:48 -0300] "GET / HTTP/1.1" 301 235 "-" "Mozilla/5.0 (Linux; U; Android 7.1.1; es-LA; Moto E (4) Plus Build/NMA26.42-162-1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 UCBrowser/12.12.8.1206 Mobile Safari/537.36"
+8.37.233.173 - - [01/Aug/2019:10:11:08 -0300] "GET / HTTP/1.1" 301 235 "-" "Mozilla/5.0 (Linux; U; Android 7.1.1; es-LA; Moto E (4) Plus Build/NMA26.42-162-1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 UCBrowser/12.12.8.1206 Mobile Safari/537.36"
+89.108.99.6 - - [01/Aug/2019:10:59:46 -0300] "GET / HTTP/1.1" 301 235 "-" "-"
+186.19.128.149 - - [01/Aug/2019:11:55:28 -0300] "GET / HTTP/1.1" 301 235 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 12_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Mobile/15E148 Safari/604.1"
+216.55.182.90 - - [01/Aug/2019:11:56:37 -0300] "GET / HTTP/1.1" 301 235 "-" "Mozilla/5.0 (Windows NT 6.2; WOW64; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0"
+206.225.80.193 - - [01/Aug/2019:11:56:47 -0300] "HEAD / HTTP/1.1" 301 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:14.0) Gecko/20100101 Firefox/14.0.1"
+206.225.80.193 - - [01/Aug/2019:11:56:49 -0300] "HEAD / HTTP/1.1" 301 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:14.0) Gecko/20100101 Firefox/14.0.1"

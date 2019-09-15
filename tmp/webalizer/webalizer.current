@@ -1,0 +1,236 @@
+# Webalizer V2.23-08 Incremental Data - 08/01/2019 08:52:19
+2019 8 1 8 52 19
+43 19 10 11 5 15 2049512 27 10 0
+10 7 11 1 1
+43 19 2049512 10 27 10
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+11 9 856937 7
+10 6 1168965 2
+0 0 0 0
+11 3 18602 10
+0 0 0 0
+0 0 0 0
+2 0 470 2
+2 0 470 2
+7 1 4068 4
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+19
+0
+0
+0
+0
+0
+0
+0
+10
+4
+0
+1
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+0
+0
+0
+0
+0
+# -urls- 
+/css/app.css
+0 2 13319328 255602 0 0
+/register
+0 1 13300400 6151 0 0
+/password/reset
+0 1 13300544 4827 0 0
+/favicon.ico
+0 1 13299312 0 0 0
+/js/app.js
+0 1 13299584 337106 0 0
+/login
+0 3 13318720 18270 0 0
+/home
+0 1 13299440 5396 0 0
+/
+0 5 13326400 19940 9 1
+/images/LOGO.png
+0 2 13300256 620742 0 0
+/robots.txt
+0 1 13298336 24 0 0
+/images/arranque.png
+0 2 13348048 771422 0 0
+# End Of Table - urls
+# -sites- (monthly)
+184.75.221.179
+0 1 0 235 1 1564640653
+/
+188.166.189.163
+0 1 0 235 1 1564645000
+/
+cpe-190-55-29-158.telecentro-reversos.com.ar
+0 20 9 1187332 2 1564628823
+/
+unn-89-187-178-218.cdn77.com
+0 7 1 4068 1 1564649539
+-
+ec2-34-244-104-150.eu-west-1.compute.amazonaws.com
+0 1 0 235 1 1564629174
+/
+bzq-82-80-249-156.dcenter.bezeqint.net
+0 7 6 155315 1 1564618967
+/password/reset
+65.154.226.126
+0 1 0 235 1 1564640062
+/
+bzq-82-80-230-228.cablep.bezeqint.net
+0 3 2 315911 1 1564618945
+/
+ricotta.ug.activeminds.net
+0 1 0 235 1 1564645779
+/
+bzq-82-80-249-164.dcenter.bezeqint.net
+0 1 1 385711 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+184.75.221.179
+0 1 0 235 1 1564640653
+/
+188.166.189.163
+0 1 0 235 1 1564645000
+/
+cpe-190-55-29-158.telecentro-reversos.com.ar
+0 20 9 1187332 2 1564628823
+/
+unn-89-187-178-218.cdn77.com
+0 7 1 4068 1 1564649539
+-
+ec2-34-244-104-150.eu-west-1.compute.amazonaws.com
+0 1 0 235 1 1564629174
+/
+bzq-82-80-249-156.dcenter.bezeqint.net
+0 7 6 155315 1 1564618967
+/password/reset
+65.154.226.126
+0 1 0 235 1 1564640062
+/
+bzq-82-80-230-228.cablep.bezeqint.net
+0 3 2 315911 1 1564618945
+/
+ricotta.ug.activeminds.net
+0 1 0 235 1 1564645779
+/
+bzq-82-80-249-164.dcenter.bezeqint.net
+0 1 1 385711 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 21
+http://www.dalpedidos.com/login
+0 3
+http://www.dalpedidos.com/home
+0 2
+http://www.dalpedidos.com/
+0 16
+http://www.dalpedidos.com/produ-list-pdf
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0
+0 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:26.0) Gecko/20100101 Firefox/26.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:50.0) Gecko/20100101 Firefox/50.0
+0 7
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/602.1 (KHTML, like Gecko) splash Version/9.0 Safari/602.1
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 5.1; rv:26.0) Gecko/20100101 Firefox/26.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:52.0) Gecko/20100101 Firefox/52.0
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+0 20
+Mozilla/5.0 (Windows NT 5.1; rv:25.0) Gecko/20100101 Firefox/25.0
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,89 @@
+[29-Jul-2019 23:23:05 UTC] PHP Fatal error:  Uncaught ReflectionException: Class translator does not exist in /home/dalpedidos/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home/dalpedidos/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('translator')
+#1 /home/dalpedidos/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('translator')
+#2 /home/dalpedidos/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('translator', Array)
+#3 /home/dalpedidos/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('translator', Array)
+#4 /home/dalpedidos/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(121): Illuminate\Foundation\Application->make('translator', Array)
+#5 /home/dalpedidos/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(909): app('translator')
+#6 /home/dalpedidos/storage in /home/dalpedidos/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[29-Jul-2019 23:23:05 UTC] PHP Fatal error:  Uncaught ReflectionException: Class translator does not exist in /home/dalpedidos/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home/dalpedidos/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('translator')
+#1 /home/dalpedidos/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('translator')
+#2 /home/dalpedidos/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('translator', Array)
+#3 /home/dalpedidos/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('translator', Array)
+#4 /home/dalpedidos/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(121): Illuminate\Foundation\Application->make('translator', Array)
+#5 /home/dalpedidos/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(909): app('translator')
+#6 /home/dalpedidos/storage in /home/dalpedidos/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+
+[30-Jul-2019 13:56:40 UTC] PHP Warning:  require(/home/dalpedidos/public_html../dalpedidos/vendor/autoload.php): failed to open stream: No such file or directory in /home/dalpedidos/public_html/index.php on line 24
+[30-Jul-2019 13:56:40 UTC] PHP Fatal error:  require(): Failed opening required '/home/dalpedidos/public_html../dalpedidos/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/dalpedidos/public_html/index.php on line 24
+[30-Jul-2019 13:56:55 UTC] PHP Warning:  require(/home/dalpedidos/public_html../dalpedidos/vendor/autoload.php): failed to open stream: No such file or directory in /home/dalpedidos/public_html/index.php on line 24
+[30-Jul-2019 13:56:55 UTC] PHP Fatal error:  require(): Failed opening required '/home/dalpedidos/public_html../dalpedidos/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/dalpedidos/public_html/index.php on line 24
+[30-Jul-2019 13:56:55 UTC] PHP Warning:  require(/home/dalpedidos/public_html../dalpedidos/vendor/autoload.php): failed to open stream: No such file or directory in /home/dalpedidos/public_html/index.php on line 24
+[30-Jul-2019 13:56:55 UTC] PHP Fatal error:  require(): Failed opening required '/home/dalpedidos/public_html../dalpedidos/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/dalpedidos/public_html/index.php on line 24
+[30-Jul-2019 13:56:55 UTC] PHP Warning:  require(/home/dalpedidos/public_html../dalpedidos/vendor/autoload.php): failed to open stream: No such file or directory in /home/dalpedidos/public_html/index.php on line 24
+[30-Jul-2019 13:56:55 UTC] PHP Fatal error:  require(): Failed opening required '/home/dalpedidos/public_html../dalpedidos/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/dalpedidos/public_html/index.php on line 24
+[30-Jul-2019 13:56:55 UTC] PHP Warning:  require(/home/dalpedidos/public_html../dalpedidos/vendor/autoload.php): failed to open stream: No such file or directory in /home/dalpedidos/public_html/index.php on line 24
+[30-Jul-2019 13:56:55 UTC] PHP Fatal error:  require(): Failed opening required '/home/dalpedidos/public_html../dalpedidos/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/dalpedidos/public_html/index.php on line 24
+[30-Jul-2019 13:56:55 UTC] PHP Warning:  require(/home/dalpedidos/public_html../dalpedidos/vendor/autoload.php): failed to open stream: No such file or directory in /home/dalpedidos/public_html/index.php on line 24
+[30-Jul-2019 13:56:55 UTC] PHP Fatal error:  require(): Failed opening required '/home/dalpedidos/public_html../dalpedidos/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/dalpedidos/public_html/index.php on line 24
+[30-Jul-2019 13:56:56 UTC] PHP Warning:  require(/home/dalpedidos/public_html../dalpedidos/vendor/autoload.php): failed to open stream: No such file or directory in /home/dalpedidos/public_html/index.php on line 24
+[30-Jul-2019 13:56:56 UTC] PHP Fatal error:  require(): Failed opening required '/home/dalpedidos/public_html../dalpedidos/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/dalpedidos/public_html/index.php on line 24
+[30-Jul-2019 13:56:56 UTC] PHP Warning:  require(/home/dalpedidos/public_html../dalpedidos/vendor/autoload.php): failed to open stream: No such file or directory in /home/dalpedidos/public_html/index.php on line 24
+[30-Jul-2019 13:56:56 UTC] PHP Fatal error:  require(): Failed opening required '/home/dalpedidos/public_html../dalpedidos/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/dalpedidos/public_html/index.php on line 24
+[30-Jul-2019 13:56:56 UTC] PHP Warning:  require(/home/dalpedidos/public_html../dalpedidos/vendor/autoload.php): failed to open stream: No such file or directory in /home/dalpedidos/public_html/index.php on line 24
+[30-Jul-2019 13:56:56 UTC] PHP Fatal error:  require(): Failed opening required '/home/dalpedidos/public_html../dalpedidos/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/dalpedidos/public_html/index.php on line 24
+[30-Jul-2019 13:56:56 UTC] PHP Warning:  require(/home/dalpedidos/public_html../dalpedidos/vendor/autoload.php): failed to open stream: No such file or directory in /home/dalpedidos/public_html/index.php on line 24
+[30-Jul-2019 13:56:56 UTC] PHP Fatal error:  require(): Failed opening required '/home/dalpedidos/public_html../dalpedidos/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/dalpedidos/public_html/index.php on line 24
+[30-Jul-2019 21:44:39 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 770048 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/lib/Cpdf.php on line 1718
+[30-Jul-2019 21:44:39 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 135168 bytes) in /home/dalpedidos/vendor/filp/whoops/src/Whoops/Exception/Frame.php on line 204
+[31-Jul-2019 01:52:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/src/Css/Style.php on line 854
+[31-Jul-2019 04:05:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 757760 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/lib/Cpdf.php on line 2933
+[31-Jul-2019 04:13:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/src/Css/Style.php on line 843
+[31-Jul-2019 04:17:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 765952 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/lib/Cpdf.php on line 2821
+[31-Jul-2019 04:25:07 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/src/Css/Style.php on line 843
+[31-Jul-2019 04:33:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/src/Css/Style.php on line 843
+[31-Jul-2019 04:43:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 765952 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/lib/Cpdf.php on line 2821
+[31-Jul-2019 04:44:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/src/Css/Style.php on line 1648
+[31-Jul-2019 04:44:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/dalpedidos/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[31-Jul-2019 04:55:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/src/Css/Style.php on line 658
+[31-Jul-2019 04:55:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/dalpedidos/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[31-Jul-2019 04:56:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/src/Css/Style.php on line 843
+[31-Jul-2019 04:56:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/src/Css/Style.php on line 1057
+[31-Jul-2019 04:56:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/dalpedidos/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[31-Jul-2019 05:00:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/src/Css/Style.php on line 658
+[31-Jul-2019 05:00:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/dalpedidos/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[31-Jul-2019 07:02:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/src/Css/Style.php on line 658
+[31-Jul-2019 07:02:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/dalpedidos/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[31-Jul-2019 07:02:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/src/Css/Style.php on line 1057
+[31-Jul-2019 07:02:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/dalpedidos/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[31-Jul-2019 07:15:45 UTC] PHP Fatal error:  Cannot use PDF as PDF because the name is already in use in /home/dalpedidos/app/Http/Controllers/ProduController.php on line 8
+[31-Jul-2019 07:23:10 UTC] PHP Fatal error:  Cannot use PDF as PDF because the name is already in use in /home/dalpedidos/app/Http/Controllers/ProduController.php on line 8
+[31-Jul-2019 07:30:38 UTC] PHP Fatal error:  Cannot use PDF as PDF because the name is already in use in /home/dalpedidos/app/Http/Controllers/ProduController.php on line 8
+[31-Jul-2019 21:33:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/src/Css/Style.php on line 1652
+[31-Jul-2019 21:33:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/dalpedidos/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[31-Jul-2019 21:33:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/src/Css/Style.php on line 1836
+[31-Jul-2019 21:33:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/dalpedidos/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[01-Aug-2019 06:02:27 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/src/Css/Style.php on line 1836
+[01-Aug-2019 06:02:27 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/dalpedidos/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[01-Aug-2019 06:02:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/src/Css/Style.php on line 843
+[01-Aug-2019 06:09:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/src/Css/Stylesheet.php on line 1024
+[01-Aug-2019 06:09:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/dalpedidos/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[01-Aug-2019 06:09:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/src/Css/Style.php on line 1648
+[01-Aug-2019 06:09:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/dalpedidos/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[01-Aug-2019 06:16:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/src/Css/Stylesheet.php on line 1024
+[01-Aug-2019 06:16:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/dalpedidos/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[01-Aug-2019 06:17:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/src/Css/Style.php on line 707
+[01-Aug-2019 06:17:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/dalpedidos/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[01-Aug-2019 06:23:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/src/Css/Style.php on line 707
+[01-Aug-2019 06:23:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/dalpedidos/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[01-Aug-2019 06:49:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/src/Css/Style.php on line 707
+[01-Aug-2019 06:49:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/dalpedidos/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[01-Aug-2019 06:51:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/src/Css/Style.php on line 1652
+[01-Aug-2019 06:51:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/dalpedidos/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[01-Aug-2019 06:51:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/src/Frame.php on line 539
+[01-Aug-2019 06:51:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/dalpedidos/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[01-Aug-2019 07:04:07 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/dalpedidos/vendor/dompdf/dompdf/src/FrameDecorator/Block.php on line 191
+[01-Aug-2019 07:04:07 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/dalpedidos/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php on line 122

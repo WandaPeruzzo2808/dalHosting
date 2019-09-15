@@ -1,0 +1,182 @@
+# Webalizer V2.23-08 Incremental Data - 08/01/2019 07:49:40
+2019 8 1 7 49 40
+35 26 6 8 3 5 3084772 23 5 0
+6 2 28 1 1
+35 26 3084772 6 23 5
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+28 20 2725515 17
+3 2 10166 3
+0 0 0 0
+2 2 341101 1
+2 2 7990 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+26
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+9
+0
+0
+0
+0
+0
+# -urls- 
+/css/app.css
+0 2 20408688 255602 0 0
+/js/app.js
+0 4 20405408 1348424 0 0
+/home
+0 5 20405072 27035 0 0
+/
+0 9 20410016 39775 5 0
+/images/loguito.png
+0 1 20404944 10886 0 0
+/images/LOGOICO.ico
+0 1 20409712 10886 0 0
+/images/LOGO.png
+0 2 20405184 620742 0 0
+/images/arranque.png
+0 2 20405296 771422 0 0
+# End Of Table - urls
+# -sites- (monthly)
+188.166.189.163
+0 1 1 3995 1 1564645002
+/
+ec2-34-242-89-35.eu-west-1.compute.amazonaws.com
+0 1 1 337106 0 0
+-
+cpe-190-55-29-158.telecentro-reversos.com.ar
+0 25 16 1233591 1 1564632246
+-
+ec2-34-244-104-150.eu-west-1.compute.amazonaws.com
+0 5 5 1164984 1 1564629174
+/
+65.154.226.126
+0 2 2 341101 1 1564640066
+/
+ricotta.ug.activeminds.net
+0 1 1 3995 1 1564645780
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+188.166.189.163
+0 1 1 3995 1 1564645002
+/
+ec2-34-242-89-35.eu-west-1.compute.amazonaws.com
+0 1 1 337106 0 0
+-
+cpe-190-55-29-158.telecentro-reversos.com.ar
+0 25 16 1233591 1 1564632246
+-
+ec2-34-244-104-150.eu-west-1.compute.amazonaws.com
+0 5 5 1164984 1 1564629174
+/
+65.154.226.126
+0 2 2 341101 1 1564640066
+/
+ricotta.ug.activeminds.net
+0 1 1 3995 1 1564645780
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://www.dalpedidos.com/home
+0 10
+- (Direct Request)
+0 10
+https://www.dalpedidos.com/
+0 15
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/602.1 (KHTML, like Gecko) splash Version/9.0 Safari/602.1
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:52.0) Gecko/20100101 Firefox/52.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+0 25
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
